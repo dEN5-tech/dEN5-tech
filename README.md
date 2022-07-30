@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/b7eb1e3a-81b1-4b12-96e2-d27568c1cf46.svg)](https://wakatime.com/@b7eb1e3a-81b1-4b12-96e2-d27568c1cf46)
 <!--
 **dEN5-tech/dEN5-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
