@@ -1,6 +1,6 @@
 ### Привет, меня зовут Денис Карташов! 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dEN5-tech)](https://github.com/ryo-ma/github-profile-trophy) 
 
 [![wakatime](https://wakatime.com/badge/user/b7eb1e3a-81b1-4b12-96e2-d27568c1cf46.svg)](https://wakatime.com/@b7eb1e3a-81b1-4b12-96e2-d27568c1cf46)
 <!--
